@@ -1,0 +1,5 @@
+src/WindowsSleepPrevention/.vs/
+src/WindowsSleepPrevention/obj/
+src/WindowsSleepPrevention/bin/
+Output/
+*.zip
